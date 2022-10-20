@@ -1,0 +1,1 @@
+# wrong-media-type-exception-handler-example
